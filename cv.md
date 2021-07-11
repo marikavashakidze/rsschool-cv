@@ -5,7 +5,7 @@
 I am motivated to study FrontEnd Development.
 
 ### Skills
-very basic html, css
+basic html
 
 ### Code examples
 ```
