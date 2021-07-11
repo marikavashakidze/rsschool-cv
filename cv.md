@@ -2,7 +2,7 @@
  
 **Email:** marikavashakidze35@gmail.com
 
-I am motivated to study FrontEnd Development
+I am motivated to study FrontEnd Development.
 
 ### Skills
 very basic html, css
